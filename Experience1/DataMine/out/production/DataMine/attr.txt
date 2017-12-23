@@ -1,0 +1,1 @@
+age,income,student,credit_rating,buys_computer
